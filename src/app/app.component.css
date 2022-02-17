@@ -1,0 +1,33 @@
+textarea{
+    margin-left: 10%;
+    margin-top:5%;
+}
+.bold{
+    margin-left: 10%;
+    margin-top:3%;
+    
+}
+.Italics{
+    margin-left:10px;
+    margin-top:1%;
+}
+.underlined{
+    margin-left:10px;
+    margin-top:1%;
+}
+
+select{
+    margin-left: 5px;
+    padding:10px;
+    border-radius: 15px;
+    background-color: #fff;
+          /* Remove default arrow */
+}
+.text_type_bold{
+    font-style:none;
+    font-weight:bold;
+}
+.text_type_italics{
+    font-style:italic;
+    font-weight:normal;
+}
